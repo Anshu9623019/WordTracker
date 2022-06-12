@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Anshu9623019/WordTracker/static/css/main.8cb9aaa7.chunk.css",
+    "main.js": "/Anshu9623019/WordTracker/static/js/main.fd4d8baf.chunk.js",
+    "main.js.map": "/Anshu9623019/WordTracker/static/js/main.fd4d8baf.chunk.js.map",
+    "runtime-main.js": "/Anshu9623019/WordTracker/static/js/runtime-main.8d04d03d.js",
+    "runtime-main.js.map": "/Anshu9623019/WordTracker/static/js/runtime-main.8d04d03d.js.map",
+    "static/js/2.78773dab.chunk.js": "/Anshu9623019/WordTracker/static/js/2.78773dab.chunk.js",
+    "static/js/2.78773dab.chunk.js.map": "/Anshu9623019/WordTracker/static/js/2.78773dab.chunk.js.map",
+    "static/js/3.7cfd6bc4.chunk.js": "/Anshu9623019/WordTracker/static/js/3.7cfd6bc4.chunk.js",
+    "static/js/3.7cfd6bc4.chunk.js.map": "/Anshu9623019/WordTracker/static/js/3.7cfd6bc4.chunk.js.map",
+    "index.html": "/Anshu9623019/WordTracker/index.html",
+    "static/css/main.8cb9aaa7.chunk.css.map": "/Anshu9623019/WordTracker/static/css/main.8cb9aaa7.chunk.css.map",
+    "static/js/2.78773dab.chunk.js.LICENSE.txt": "/Anshu9623019/WordTracker/static/js/2.78773dab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d04d03d.js",
+    "static/js/2.78773dab.chunk.js",
+    "static/css/main.8cb9aaa7.chunk.css",
+    "static/js/main.fd4d8baf.chunk.js"
+  ]
+}
